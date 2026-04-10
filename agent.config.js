@@ -13,7 +13,7 @@ const agentConfig = {
   // ─── BRANDING ───────────────────────────────────────────────────────
   // These values are reflected in the header, welcome screen,
   // meta tags, email templates, and throughout the UI.
-  name: "AgentX 2.0",
+  name: "Ujwal-23BD1A0511",
   emoji: "⚡",
   tagline: "AI-Powered Productivity Toolkit",
   description:
@@ -40,12 +40,12 @@ const agentConfig = {
   //   desc  → One-line subtitle under the title
   //   color → Accent color for the left-border highlight & icon background
   tools: [
-    { id: "weather", icon: "🌤️", title: "Weather",        desc: "Real-time weather for any city worldwide",              color: "#60a5fa" },
-    { id: "tasks",   icon: "✅",  title: "Tasks",          desc: "Manage tasks with AI-powered priority tips",            color: "#34d399" },
-    { id: "csv",     icon: "📊",  title: "CSV Analytics",  desc: "Paste data and get instant AI-driven analysis",         color: "#fbbf24" },
-    { id: "search",  icon: "🔍",  title: "AI Search",      desc: "Intelligent search with structured summaries",          color: "#0d9488" },
-    { id: "goals",   icon: "🎯",  title: "Goal Tracking",  desc: "Set goals and get AI-powered step-by-step roadmaps",   color: "#a78bfa" },
-    { id: "email",   icon: "📧",  title: "Email Alerts",   desc: "Get goal reports and daily summaries in your inbox",    color: "#f472b6" },
+    { id: "weather", icon: "🌤️", title: "Weather", desc: "Real-time weather for any city worldwide", color: "#60a5fa" },
+    { id: "tasks", icon: "✅", title: "Tasks", desc: "Manage tasks with AI-powered priority tips", color: "#34d399" },
+    { id: "csv", icon: "📊", title: "CSV Analytics", desc: "Paste data and get instant AI-driven analysis", color: "#fbbf24" },
+    { id: "search", icon: "🔍", title: "AI Search", desc: "Intelligent search with structured summaries", color: "#0d9488" },
+    { id: "goals", icon: "🎯", title: "Goal Tracking", desc: "Set goals and get AI-powered step-by-step roadmaps", color: "#a78bfa" },
+    { id: "email", icon: "📧", title: "Email Alerts", desc: "Get goal reports and daily summaries in your inbox", color: "#f472b6" },
   ],
 
   // ─── EXTERNAL SERVICES ─────────────────────────────────────────────
